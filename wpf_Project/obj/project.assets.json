@@ -1,0 +1,251 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "LiveCharts.Wpf.NetCore3/0.9.8": {
+        "type": "package",
+        "dependencies": {
+          "System.Data.DataSetExtensions": "4.5.0"
+        },
+        "compile": {
+          "lib/net8.0-windows7.0/LiveCharts.Wpf.dll": {},
+          "lib/net8.0-windows7.0/LiveCharts.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/LiveCharts.Wpf.dll": {},
+          "lib/net8.0-windows7.0/LiveCharts.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "MahApps.Metro.IconPacks.Material/4.11.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "System.Data.DataSetExtensions/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Data.DataSetExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Data.DataSetExtensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiveCharts.Wpf.NetCore3/0.9.8": {
+      "sha512": "EWwggMrRkWOdt/TdFhcs0LIXzpEuN392zGB+tLcO4UinKV13+V3NyhFoURPVP3GmQXjgrrlMDp+zyuSQeut53w==",
+      "type": "package",
+      "path": "livecharts.wpf.netcore3/0.9.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/LiveCharts.Wpf.dll",
+        "lib/net40/LiveCharts.dll",
+        "lib/net40/LiveCharts.xml",
+        "lib/net6.0-windows7.0/LiveCharts.Wpf.dll",
+        "lib/net6.0-windows7.0/LiveCharts.dll",
+        "lib/net6.0-windows7.0/LiveCharts.xml",
+        "lib/net7.0-windows7.0/LiveCharts.Wpf.dll",
+        "lib/net7.0-windows7.0/LiveCharts.dll",
+        "lib/net7.0-windows7.0/LiveCharts.xml",
+        "lib/net8.0-windows7.0/LiveCharts.Wpf.dll",
+        "lib/net8.0-windows7.0/LiveCharts.dll",
+        "lib/net8.0-windows7.0/LiveCharts.xml",
+        "lib/netcoreapp3.1/LiveCharts.Wpf.dll",
+        "lib/netcoreapp3.1/LiveCharts.dll",
+        "lib/netcoreapp3.1/LiveCharts.xml",
+        "livecharts.wpf.netcore3.0.9.8.nupkg.sha512",
+        "livecharts.wpf.netcore3.nuspec"
+      ]
+    },
+    "MahApps.Metro.IconPacks.Material/4.11.0": {
+      "sha512": "ZCuuxWHvXxl39XBYXk4PCMUVtw1pevT5AE1qsj7VRy2tRtDYbzHWYW0FbnH+Vf0rP7BogZrRlKns3zFEkDEjFQ==",
+      "type": "package",
+      "path": "mahapps.metro.iconpacks.material/4.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net45/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net45/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net45/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.Material.xml",
+        "lib/net46/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net46/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net46/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net46/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.Material.xml",
+        "lib/net47/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net47/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net47/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net47/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net47/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net47/MahApps.Metro.IconPacks.Material.xml",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.xml",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Material.dll",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Material.xml",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.dll",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.xml",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Material.dll",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Material.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.dll",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.pri",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material.dll",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material.pri",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material/MahApps.Metro.IconPacks.Material.xr.xml",
+        "logo_small.png",
+        "mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+        "mahapps.metro.iconpacks.material.nuspec"
+      ]
+    },
+    "System.Data.DataSetExtensions/4.5.0": {
+      "sha512": "221clPs1445HkTBZPL+K9sDBdJRB8UN8rgjO3ztB0CQ26z//fmJXtlsr6whGatscsKGBrhJl5bwJuKSA8mwFOw==",
+      "type": "package",
+      "path": "system.data.datasetextensions/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/_._",
+        "lib/netstandard2.0/System.Data.DataSetExtensions.dll",
+        "ref/net45/_._",
+        "ref/netstandard2.0/System.Data.DataSetExtensions.dll",
+        "system.data.datasetextensions.4.5.0.nupkg.sha512",
+        "system.data.datasetextensions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "LiveCharts.Wpf.NetCore3 >= 0.9.8",
+      "MahApps.Metro.IconPacks.Material >= 4.11.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\wpf_Project\\wpf_Project\\wpf_Project.csproj",
+      "projectName": "wpf_Project",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\wpf_Project\\wpf_Project\\wpf_Project.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\wpf_Project\\wpf_Project\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "LiveCharts.Wpf.NetCore3": {
+            "target": "Package",
+            "version": "[0.9.8, )"
+          },
+          "MahApps.Metro.IconPacks.Material": {
+            "target": "Package",
+            "version": "[4.11.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
