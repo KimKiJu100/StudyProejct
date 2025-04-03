@@ -173,11 +173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\wpf_Project.csproj",
+      "projectUniqueName": "C:\\test\\wpf_Project\\wpf_Project.csproj",
       "projectName": "wpf_Project",
-      "projectPath": "C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\wpf_Project.csproj",
-      "packagesPath": "C:\\Users\\Nomal PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\obj\\",
+      "projectPath": "C:\\test\\wpf_Project\\wpf_Project.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\test\\wpf_Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

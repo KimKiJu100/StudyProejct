@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\wpf_Project.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\wpf_Project.csproj",
         "packagesPath": "C:\\Users\\Nomal PC\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\obj\\",
+=======
+    "C:\\Users\\Administrator\\Desktop\\Wpf\\wpf_Project\\wpf_Project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrator\\Desktop\\Wpf\\wpf_Project\\wpf_Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Wpf\\wpf_Project\\wpf_Project.csproj",
+        "projectName": "wpf_Project",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Wpf\\wpf_Project\\wpf_Project.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Wpf\\wpf_Project\\obj\\",
+>>>>>>> 4e3040df1bf4dab6d5a3dd0334947063f392e211
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
