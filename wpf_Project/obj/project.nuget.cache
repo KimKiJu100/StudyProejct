@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YMvf/xXeyYw=",
+  "dgSpecHash": "pi2EU4lbSnU=",
   "success": true,
-  "projectFilePath": "C:\\test\\wpf_Project\\wpf_Project.csproj",
+  "projectFilePath": "C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\wpf_Project.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\livecharts.wpf.netcore3\\0.9.8\\livecharts.wpf.netcore3.0.9.8.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+    "C:\\Users\\Nomal PC\\.nuget\\packages\\livecharts.wpf.netcore3\\0.9.8\\livecharts.wpf.netcore3.0.9.8.nupkg.sha512",
+    "C:\\Users\\Nomal PC\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+    "C:\\Users\\Nomal PC\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

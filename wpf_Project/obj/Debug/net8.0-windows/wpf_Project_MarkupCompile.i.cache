@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\test\wpf_Project\obj\Debug\net8.0-windows\
+C:\Users\Nomal PC\Desktop\WPF\01.wpf_custom_ui\wpf_Project\obj\Debug\net8.0-windows\
 wpf_Project
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\test\wpf_Project\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\Nomal PC\Desktop\WPF\01.wpf_custom_ui\wpf_Project\App.xaml
 11407045341
 
 6114369746
-2021729758060
+202-1078102189
 MainWindow.xaml;
 
 False
