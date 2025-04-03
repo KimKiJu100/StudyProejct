@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Administrator\Desktop\Wpf\wpf_Project\obj\Debug\net8.0-windows\
+C:\Users\Nomal PC\Desktop\WPF\01.wpf_custom_ui\wpf_Project\obj\Debug\net8.0-windows\
 wpf_Project
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Administrator\Desktop\Wpf\wpf_Project\App.xaml
-11407045341
+C:\Users\Nomal PC\Desktop\WPF\01.wpf_custom_ui\wpf_Project\App.xaml
+4-1446856073
 3-1714354416
-41150175147
-2021729758060
-MainWindow.xaml;
+7-696141097
+202-1078102189
+MainWindow.xaml;UserControls\InfoCard.xaml;UserControls\Legends.xaml;UserControls\UserCard.xaml;
 
 False
 

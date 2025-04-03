@@ -1,18 +1,19 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "pi2EU4lbSnU=",
   "success": true,
   "projectFilePath": "C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\wpf_Project.csproj",
-=======
-  "dgSpecHash": "4urz894TnK4=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Wpf\\wpf_Project\\wpf_Project.csproj",
->>>>>>> 4e3040df1bf4dab6d5a3dd0334947063f392e211
   "expectedPackageFiles": [
     "C:\\Users\\Nomal PC\\.nuget\\packages\\livecharts.wpf.netcore3\\0.9.8\\livecharts.wpf.netcore3.0.9.8.nupkg.sha512",
     "C:\\Users\\Nomal PC\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
     "C:\\Users\\Nomal PC\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "캐시 파일 C:\\Users\\Nomal PC\\Desktop\\WPF\\01.wpf_custom_ui\\wpf_Project\\obj\\project.nuget.cache을(를) 읽는 동안 문제가 발생했습니다. Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
