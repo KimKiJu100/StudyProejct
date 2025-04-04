@@ -119,3 +119,11 @@ C:\Users\Nomal PC\Desktop\WPF\01.wpf_custom_ui\wpf_Project\obj\Debug\net8.0-wind
 C:\Users\Nomal PC\Desktop\WPF\01.wpf_custom_ui\wpf_Project\obj\Debug\net8.0-windows\UserControls\Legends.g.cs
 C:\Users\Nomal PC\Desktop\WPF\01.wpf_custom_ui\wpf_Project\obj\Debug\net8.0-windows\UserControls\UserCard.baml
 C:\Users\Nomal PC\Desktop\WPF\01.wpf_custom_ui\wpf_Project\obj\Debug\net8.0-windows\UserControls\UserCard.g.cs
+C:\Users\Administrator\Desktop\WPF\wpf_Project\obj\Debug\net8.0-windows\UserControls\InfoCard.baml
+C:\Users\Administrator\Desktop\WPF\wpf_Project\obj\Debug\net8.0-windows\UserControls\Legends.baml
+C:\Users\Administrator\Desktop\WPF\wpf_Project\obj\Debug\net8.0-windows\UserControls\UserCard.baml
+C:\Users\Administrator\Desktop\WPF\wpf_Project\obj\Debug\net8.0-windows\UserControls\InfoCard.g.cs
+C:\Users\Administrator\Desktop\WPF\wpf_Project\obj\Debug\net8.0-windows\UserControls\Legends.g.cs
+C:\Users\Administrator\Desktop\WPF\wpf_Project\obj\Debug\net8.0-windows\UserControls\UserCard.g.cs
+C:\Users\Administrator\Desktop\WPF\wpf_Project\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\WPF\wpf_Project\obj\Debug\net8.0-windows\wpf_Project_MarkupCompile.lref
